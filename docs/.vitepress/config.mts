@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/nu.docs2.1/',
   title: "nu.docs2.1",
-  description: "nu.docs は、VitePressを使用して作成されたドキュメントです。",
 
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
