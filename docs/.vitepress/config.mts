@@ -15,7 +15,7 @@ export default defineConfig({
             { text: '環境構築編', link: '/setup' },
             { text: '実習編', link: '/practice' },
             { text: 'python編', link: '/python' },
-            { text: 'next.js編', link: '/nextjs' },
+            { text: 'next.js編', link: '/nodejs' },
             { text: 'VRC編', link: '/vrc' },
           ]
         }
@@ -28,7 +28,7 @@ export default defineConfig({
             { text: 'git', link: '/setup/git' },
             { text: 'VSCode', link: '/setup/vscode' },
             { text: 'Node.js', link: '/setup/nodejs' },
-            { text: 'WSL', link: '/setup/wsl' },
+            { text: 'cmd', link: '/setup/cmd' },
           ]
         }
       ]
