@@ -15,11 +15,11 @@ features:
     link: /setup/vscode
 
   - title: node.js
-    details: 基礎＋導入
+    details: 導入
     link: /setup/nodejs
 
   - title: コマンド上の操作
-    details: 基礎
+    details: 使用法
     link: /setup/cmd
 
 ---
