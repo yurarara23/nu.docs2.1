@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "nu.docs2"
+  name: "nu.docs2.1"
   tagline: (´･ω･`) やあ
 
 features:

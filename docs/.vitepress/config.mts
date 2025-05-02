@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "nu.docs2",
+  base: '/nu.docs2.1/',
+  title: "nu.docs2.1",
   description: "nu.docs is a documentation site",
   themeConfig: {
 
