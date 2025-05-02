@@ -1,6 +1,6 @@
 # nu.docs2!
 
-##デプロイのときのエラーと対処履歴
+## デプロイのときのエラーと対処履歴
 - vitepress: not found
 → vitepress 未インストールが原因 → npm install --save-dev vitepress 実行
 
