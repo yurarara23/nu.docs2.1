@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "nu.docs2.1"
+  name: "nu.docs2.1取説"
 
 features:
   - title: docs作成法、編集法

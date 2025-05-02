@@ -7,27 +7,29 @@ hero:
   tagline: (´･ω･`) 書いてあることが最適解とは限りません。修正、加筆お待ちしております。
 
 features:
+
+  - title: docs2.1取説(環境構築編読んでから入るの推奨)
+    link: /nu.docs
+
   - title: 環境構築編+cmd使用法
     details: Git, VSCode, Node.js の導入と設定方法 
     link: /setup
 
-  - title: 実習編
-    details: 制作中
+  - title: 実践編
+    details: 準備中
     link: /practice
 
   - title: Next.js編
-    details: 制作中
+    details: 準備中
     link: /nextjs
 
   - title: python編
-    details: 制作中
-    link: /setup
+    details: 準備中
+    link: /python
 
   - title: VRC編 (Unity)
-    details: 制作中
+    details: 準備中
     link: /vcc
 
-  - title: docs追加法
-    link: /nu.docs
 
 ---

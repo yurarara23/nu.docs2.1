@@ -3,7 +3,23 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/nu.docs2.1/',
   title: "nu.docs2.1",
-  description: "nu.docs is a documentation site",
+  description: "nu.docs は、VitePressを使用して作成されたドキュメントです。",
+
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+    // サイトのファビコン（ブラウザのタブに表示される小さなアイコン）
+  
+    ["meta", { property: "og:image", content: "/icon.png" }],
+    // SNS（特にFacebookなど）で共有されたときに表示される画像
+  
+    ["meta", { property: "og:site_name", content: "nu.docs2.1" }],
+    // SNS上で表示されるサイト名（"your site name" の部分を実際のサイト名に変更する）
+  
+    ["meta", { property: "twitter:card", content: "summary" }],
+    // Twitterカードの種類。ここでは「summary」（簡易カード）を指定
+  
+  ],
+  
   themeConfig: {
 
     sidebar: {
@@ -45,7 +61,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/yurarara23/nu.docs2.1' },
+      { icon: 'discord', link: '' },
     ]
   }
 })
