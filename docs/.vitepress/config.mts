@@ -31,6 +31,16 @@ export default defineConfig({
             { text: 'cmd', link: '/setup/cmd' },
           ]
         }
+      ],
+      '/nu.docs/': [
+        {
+          text: 'nu.docs',
+          items: [
+            { text: 'docs作成法', link: '/nu.docs/docs' },
+            { text: 'サイドバー設定', link: '/nu.docs/sidebar' },
+            { text: '.mdの書き方', link: '/nu.docs/markdown-examples' },
+          ]
+        }
       ]
     },
 

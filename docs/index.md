@@ -4,27 +4,30 @@ layout: home
 
 hero:
   name: "nu.docs2.1"
-  tagline: (´･ω･`) やあ
+  tagline: (´･ω･`) 書いてあることが最適解とは限りません。修正、加筆お待ちしております。
 
 features:
-  - title: 環境構築編
-    details: Git, VSCode, Node.js, WSL の導入と設定方法
+  - title: 環境構築編+cmd使用法
+    details: Git, VSCode, Node.js の導入と設定方法 
     link: /setup
 
   - title: 実習編
-    details: 実際に手を動かして慣れよう!!!!
+    details: 制作中
     link: /practice
 
   - title: Next.js編
-    details: Next.js
+    details: 制作中
     link: /nextjs
 
   - title: python編
-    details: python
+    details: 制作中
     link: /setup
 
   - title: VRC編 (Unity)
-    details: Unity,VCC
+    details: 制作中
     link: /vcc
+
+  - title: docs追加法
+    link: /nu.docs
 
 ---
