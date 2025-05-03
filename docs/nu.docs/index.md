@@ -12,7 +12,7 @@ features:
 
   - title: サイドバー編集法
     details: パスによってサイドバーの中身を変える方法
-    link: /nu.docs/sidbar
+    link: /nu.docs/sidebar
 
   - title: md形式の書き方例
     details: 公式が用意したものです。ググれば他にもいろんなの出てきます。
