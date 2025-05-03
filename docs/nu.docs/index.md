@@ -6,8 +6,8 @@ hero:
   name: "nu.docs2.1取説"
 
 features:
-  - title: docs作成法、編集法
-    details: ドキュメント作成法
+  - title: ドキュメント作成法、編集法
+    details: ドキュメントを新たに作ってホームページに追加します。
     link: /nu.docs/docs
 
   - title: サイドバー編集法
