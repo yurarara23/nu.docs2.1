@@ -7,7 +7,7 @@ hero:
 
 features:
   - title: docs作成法、編集法
-    details: 1からdocsを作る方法
+    details: ドキュメント作成法
     link: /nu.docs/docs
 
   - title: サイドバー編集法
