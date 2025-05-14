@@ -47,6 +47,14 @@ export default defineConfig({
           ]
         }
       ],
+      '/practice/': [
+        {
+          text: '実践編',
+          items: [
+            { text: '記事を投稿', link: '/practice/blog' },
+          ]
+        }
+      ],
       '/nu.docs/': [
         {
           text: 'nu.docs',
