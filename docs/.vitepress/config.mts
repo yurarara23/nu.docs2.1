@@ -29,8 +29,6 @@ export default defineConfig({
           items: [
             { text: '環境構築編', link: '/setup' },
             { text: '実習編', link: '/practice' },
-            { text: 'python編', link: '/python' },
-            { text: 'next.js編', link: '/nodejs' },
             { text: 'VRC編', link: '/vrc' },
           ]
         }

@@ -16,16 +16,8 @@ features:
     link: /setup
 
   - title: 実践編
-    details: 準備中
+    details: 記事投稿編を追加しました
     link: /practice
-
-  - title: Next.js編
-    details: 準備中
-    link: /nextjs
-
-  - title: python編
-    details: 準備中
-    link: /python
 
   - title: VRC編 (Unity)
     details: 準備中
