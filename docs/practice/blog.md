@@ -17,10 +17,10 @@ cd ~/Desktop/develop
 
 ## 2. リポジトリのクローン
 
-以下のリポジトリをクローンします：
+ホームページ上でフォークしたリポジトリをクローンします：
 
 ```bash
-git clone https://github.com/yurarara23/nu.meta
+git clone ここにフォークした自分のリポジトリのURL 
 cd nu.meta
 ```
 
@@ -78,9 +78,7 @@ Markdown形式で記事本文とメタデータを記述してください。記
 
 ## 8. 記事の確認とPull Request
 
-ローカルサーバー上で表示を確認し、記事の内容が完成したら Git 上で Pull Request を作成してください。
-
-> Visual Studio Code の GUI を使えば、Pull Request の作成も簡単に行えます。
+ローカルサーバー上で表示を確認し、記事の内容が完成したら　VSCode　の GUI を使ってコミットと同期をします。その後　GitHub 上で Pull Request を作成してください。
 
 ---
 
